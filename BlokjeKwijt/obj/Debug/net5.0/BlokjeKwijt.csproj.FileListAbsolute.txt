@@ -23,7 +23,6 @@ C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\sc
 C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\BlokjeKwijt.TagHelpers.input.cache
 C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\BlokjeKwijt.TagHelpers.output.cache
 C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\BlokjeKwijt.RazorCoreGenerate.cache
-C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -40,5 +39,6 @@ C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Bl
 C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Home\BlokjeBeheer.cshtml.g.cs
 C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Home\BlokjeOpzoeken.cshtml.g.cs
 C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Home\ColorPicker.cshtml.g.cs
-C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Home\ContactForm.cshtml.g.cs
 C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Home\Match.cshtml.g.cs
+C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\ContactForm\Index.cshtml.g.cs

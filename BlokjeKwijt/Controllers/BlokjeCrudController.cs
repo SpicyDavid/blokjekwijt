@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BlokjeKwijt.Controllers
 {
-    public class BlokjesCrud : Controller
+    public class BlokjeCrudController : Controller
     {
         // GET: BlokjesCrud
         public ActionResult Index()

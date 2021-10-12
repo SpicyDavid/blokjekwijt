@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BlokjeKwijt.Controllers
 {
-    public class ContactFormController : Controller
+    public class BlokjeQueryController : Controller
     {
         public IActionResult Index()
         {

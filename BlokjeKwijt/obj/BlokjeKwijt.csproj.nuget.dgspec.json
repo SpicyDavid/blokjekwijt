@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\c\\source\\repos\\BlokjeKwijt\\BlokjeKwijt\\BlokjeKwijt.csproj": {}
+    "C:\\Users\\David Kamp\\Documents\\GitHub\\blokjekwijt\\BlokjeKwijt\\BlokjeKwijt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\c\\source\\repos\\BlokjeKwijt\\BlokjeKwijt\\BlokjeKwijt.csproj": {
+    "C:\\Users\\David Kamp\\Documents\\GitHub\\blokjekwijt\\BlokjeKwijt\\BlokjeKwijt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\c\\source\\repos\\BlokjeKwijt\\BlokjeKwijt\\BlokjeKwijt.csproj",
+        "projectUniqueName": "C:\\Users\\David Kamp\\Documents\\GitHub\\blokjekwijt\\BlokjeKwijt\\BlokjeKwijt.csproj",
         "projectName": "BlokjeKwijt",
-        "projectPath": "C:\\Users\\c\\source\\repos\\BlokjeKwijt\\BlokjeKwijt\\BlokjeKwijt.csproj",
-        "packagesPath": "C:\\Users\\c\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\c\\source\\repos\\BlokjeKwijt\\BlokjeKwijt\\obj\\",
+        "projectPath": "C:\\Users\\David Kamp\\Documents\\GitHub\\blokjekwijt\\BlokjeKwijt\\BlokjeKwijt.csproj",
+        "packagesPath": "C:\\Users\\David Kamp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Kamp\\Documents\\GitHub\\blokjekwijt\\BlokjeKwijt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\c\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\David Kamp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

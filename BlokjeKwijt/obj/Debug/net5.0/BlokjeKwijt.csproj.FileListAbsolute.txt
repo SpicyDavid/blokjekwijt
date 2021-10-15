@@ -39,6 +39,6 @@ C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Bl
 C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Home\BlokjeBeheer.cshtml.g.cs
 C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Home\BlokjeOpzoeken.cshtml.g.cs
 C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Home\ColorPicker.cshtml.g.cs
-C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Home\Match.cshtml.g.cs
 C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\ContactForm\Index.cshtml.g.cs
+C:\Users\David Kamp\Documents\GitHub\blokjekwijt\BlokjeKwijt\obj\Debug\net5.0\Razor\Views\Match\Index.cshtml.g.cs
